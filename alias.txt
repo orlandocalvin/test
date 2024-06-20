@@ -1,0 +1,2 @@
+alias cls="clear"
+alias graph="git log --all --decorate --oneline --graph"
